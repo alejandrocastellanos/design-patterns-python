@@ -1,5 +1,5 @@
-from factory_method.controllers.generic_factory.generic_factory import GenericFactory
-from factory_method.controllers.mountain_factory.mountain_factory import MountainFactory
+from creational_patterns.factory_method.controllers.generic_factory.generic_factory import GenericFactory
+from creational_patterns.factory_method.controllers.mountain_factory.mountain_factory import MountainFactory
 
 
 def test_generic_bicycle_factory():

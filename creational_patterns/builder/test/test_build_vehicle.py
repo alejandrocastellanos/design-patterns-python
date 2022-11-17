@@ -1,5 +1,5 @@
-from builder.controllers.builder.builder import Builder
-from builder.controllers.director.jeep_builder import JeepBuilder
+from creational_patterns.builder.controllers.builder.builder import Builder
+from creational_patterns.builder.controllers.director.jeep_builder import JeepBuilder
 
 
 def test_build_vehicle():

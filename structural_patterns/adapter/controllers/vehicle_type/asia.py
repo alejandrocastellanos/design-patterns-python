@@ -1,4 +1,4 @@
-from adapter.controllers.vehicle_type.base import Base
+from structural_patterns.adapter.controllers.vehicle_type.base import Base
 
 
 class Asia(Base):

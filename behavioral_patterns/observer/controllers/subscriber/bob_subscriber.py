@@ -1,4 +1,4 @@
-from observer.controllers.subscriber.base import Subscriber
+from behavioral_patterns.observer.controllers.subscriber.base import Subscriber
 
 
 class BobSubscriber(Subscriber):

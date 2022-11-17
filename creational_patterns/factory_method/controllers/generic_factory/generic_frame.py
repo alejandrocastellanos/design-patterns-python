@@ -1,4 +1,4 @@
-from factory_method.controllers.base_part_type import BasePartType
+from creational_patterns.factory_method.controllers.base_part_type import BasePartType
 
 
 class GenericFrame(BasePartType):

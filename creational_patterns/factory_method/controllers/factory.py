@@ -1,6 +1,6 @@
-from factory_method.controllers.Enum.enums import TypeBicycle
-from factory_method.controllers.generic_factory.generic_factory import GenericFactory
-from factory_method.controllers.mountain_factory.mountain_factory import MountainFactory
+from creational_patterns.factory_method.controllers.Enum.enums import TypeBicycle
+from creational_patterns.factory_method.controllers.generic_factory.generic_factory import GenericFactory
+from creational_patterns.factory_method.controllers.mountain_factory.mountain_factory import MountainFactory
 
 
 class BicycleFactory:

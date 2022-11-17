@@ -1,5 +1,5 @@
-from adapter.controllers.adapter.adapter import Adapter
-from adapter.controllers.vehicle_type.europa import Europa
+from structural_patterns.adapter.controllers.adapter.adapter import Adapter
+from structural_patterns.adapter.controllers.vehicle_type.europa import Europa
 
 
 class EuropaPlugDescription:

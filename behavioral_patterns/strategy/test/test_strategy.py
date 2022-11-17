@@ -1,6 +1,6 @@
-from strategy.controllers.on_sale_discount import on_sale_discount
-from strategy.controllers.item import Item
-from strategy.controllers.twenty_percentaje_discount import twenty_percentaje_discount
+from behavioral_patterns.strategy.controllers.item import Item
+from behavioral_patterns.strategy.controllers.on_sale_discount import on_sale_discount
+from behavioral_patterns.strategy.controllers.twenty_percentaje_discount import twenty_percentaje_discount
 
 
 def test_strategy():

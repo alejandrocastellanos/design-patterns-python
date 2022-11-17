@@ -1,4 +1,4 @@
-from singleton.controller.classic_singleton import DBClassicSingleton
+from creational_patterns.singleton.controller.classic_singleton import DBClassicSingleton
 
 
 def test_instance_classic_singleton():

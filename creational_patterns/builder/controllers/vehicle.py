@@ -1,6 +1,6 @@
-from builder.controllers.parts.body import Body
-from builder.controllers.parts.engine import Engine
-from builder.controllers.parts.wheel import Wheel
+from creational_patterns.builder.controllers.parts.body import Body
+from creational_patterns.builder.controllers.parts.engine import Engine
+from creational_patterns.builder.controllers.parts.wheel import Wheel
 
 
 class Vehicle:

@@ -1,7 +1,7 @@
-from observer.controllers.publisher import Publisher
-from observer.controllers.subscriber.alejo_subscriber import AlejoSubscriber
-from observer.controllers.subscriber.alice_subscriber import AliceSubscriber
-from observer.controllers.subscriber.bob_subscriber import BobSubscriber
+from behavioral_patterns.observer.controllers.publisher import Publisher
+from behavioral_patterns.observer.controllers.subscriber.alejo_subscriber import AlejoSubscriber
+from behavioral_patterns.observer.controllers.subscriber.alice_subscriber import AliceSubscriber
+from behavioral_patterns.observer.controllers.subscriber.bob_subscriber import BobSubscriber
 
 
 def test_observer():

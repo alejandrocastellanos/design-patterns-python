@@ -1,4 +1,4 @@
-from singleton.controller.borg_singleton import BorgSingleton
+from creational_patterns.singleton.controller.borg_singleton import BorgSingleton
 
 
 def test_instance_borg_singleton():

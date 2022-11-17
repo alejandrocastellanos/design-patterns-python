@@ -1,4 +1,4 @@
-from builder.controllers.builder.builder import Builder
+from creational_patterns.builder.controllers.builder.builder import Builder
 
 
 class JeepBuilder:

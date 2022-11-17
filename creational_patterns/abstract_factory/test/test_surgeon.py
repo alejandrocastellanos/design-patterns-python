@@ -1,4 +1,4 @@
-from abstract_factory.controller import Surgeon, Instrumentalist
+from creational_patterns.abstract_factory.controller import Instrumentalist, Surgeon
 
 
 def test_surgeon_in_operating_room():

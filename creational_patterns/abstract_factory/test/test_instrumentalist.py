@@ -1,4 +1,4 @@
-from abstract_factory.controller import Instrumentalist
+from creational_patterns.abstract_factory.controller import Instrumentalist
 
 
 def test_instrumentalist_jungle_location():
