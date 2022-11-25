@@ -44,14 +44,8 @@ u
 Ebehavioral_patterns/observer/controllers/subscriber/bob_subscriber.py,9/6/96e033ee42129cb8e64ca0fa4f4e2abe48bbd3af
 e
 5behavioral_patterns/observer/controllers/publisher.py,c/5/c5e5ca65d0d7c702625153ddbb525dc6625e2548
-`
-0behavioral_patterns/strategy/controllers/item.py,e/9/e9e0c6e3b048847003aa893ff3ccdef00a4c6954
-l
-<behavioral_patterns/strategy/controllers/on_sale_discount.py,7/a/7a997e5dd6bc56be9d8730c5b2da14fce0bc3ee8
 v
 Fbehavioral_patterns/strategy/controllers/twenty_percentaje_discount.py,c/8/c8b99b91240c59522752814813aa21ac8bf43c4d
-b
-2behavioral_patterns/strategy/test/test_strategy.py,6/a/6a2fde4a68498c17ba1e8cad71c4e563a1c4965a
 q
 Acreational_patterns/abstract_factory/controller/abstract_class.py,b/1/b1076a39d70d28eec9ca02b9fb453ce4ca98f7f7
 r
@@ -130,8 +124,6 @@ O
 creational_patterns/__init__.py,1/8/18710d1b0d1308ab4cc419e76c82fe90e66e4e17
 O
 behavioral_patterns/__init__.py,8/a/8a2160764f4c5da469afccdb0e6a6735e93383a1
-b
-2behavioral_patterns/observer/test/test_observer.py,3/f/3f2a406ae004e398fff4045436382ef77f532334
 ƒ
 Screational_patterns/factory_method/controllers/mountain_factory/mountain_factory.py,4/5/458108a050ad28000e82443fd988ee5c73b2ff2a
 i
